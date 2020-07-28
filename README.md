@@ -1,7 +1,7 @@
-breadboard-friends
+breadboard-friends-kicad-version
 ==================
 
-A collection of cute breakout boards riding solderless breadboards, mostly for analog audio works
+Mutable Instruments' "Breadboard Friends" schematics and boards in Kicad flavour.
 
-These PCB layouts and schematics are released under a Creative Commons cc-by-sa
-3.0 license.
+All sources and infos here:
+https://git.lattuga.net/incandenza/bbf_kicad/src/master
